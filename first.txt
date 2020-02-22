@@ -1,2 +1,3 @@
 master add1
 my modified
+other modified
